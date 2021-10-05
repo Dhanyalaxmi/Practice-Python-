@@ -1,2 +1,2 @@
-# Practice-Python-
+# Python Practice
 Python Practice problem 
